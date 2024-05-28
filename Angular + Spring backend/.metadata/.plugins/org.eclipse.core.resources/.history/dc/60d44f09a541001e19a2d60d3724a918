@@ -1,0 +1,23 @@
+package com.selftrying.springboot.entity;
+
+import com.selftrying.springboot.model.Gender;
+
+public class User {
+
+	
+	private int Id;
+	private String UserName;
+	private Gender Gender;
+	private Long AdharNo;
+	private String CollegeId;
+	private String Department;
+	private String EmailClg;
+	private String EmailPersonal;
+	private String 
+	private String 
+	private String 
+	private String 
+	private String 
+	
+	
+}

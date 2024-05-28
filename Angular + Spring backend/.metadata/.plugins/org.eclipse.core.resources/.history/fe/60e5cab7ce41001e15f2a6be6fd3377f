@@ -1,0 +1,5 @@
+package com.selftrying.springboot.repository;
+
+public interface UserRepository {
+
+}

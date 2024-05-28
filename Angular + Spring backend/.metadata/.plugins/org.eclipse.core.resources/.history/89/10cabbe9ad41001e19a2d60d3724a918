@@ -1,0 +1,5 @@
+package com.selftrying.springboot.model;
+
+public class Skill {
+
+}

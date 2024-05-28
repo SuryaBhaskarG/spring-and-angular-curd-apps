@@ -1,0 +1,72 @@
+package com.selftrying.springboot.entity;
+
+import com.selftrying.springboot.model.Gender;
+import jakarta.persistence.*;
+import jakarta.persistence.Lob;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import java.util.List;
+import com.selftrying.springboot.model.Department;
+
+
+@Entity
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class User 
+{
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private long Id;
+	
+	@Column(name="")
+	private String UserName;
+	
+	@Lob
+	@Column(name="")
+    private byte[] image;
+	
+	@Column(name="")
+	private String How_I_Know_THEM;
+	
+	@Column(name="")
+	private Gender Gender;
+	
+	@Column(name="")
+	private Long AdharNo;
+	
+	@Column(name="")
+	private String CollegeId;
+	
+	@Column(name="")
+	private Department Department;
+	
+	@Column(name="")
+	private int whichYear_when_i_know_Them;
+	
+	@Column(name="")
+	private String EmailClg;
+	
+	@Column(name="")
+	private String EmailPersonal;
+	
+	@Column(name="")
+	private long His_phoneNo;
+	
+	@Column(name="")
+	private long His_Father_phoneNo;
+	
+	@Column(name="")
+	private List skills; 
+	
+	@Column(name="")
+	private String Character;
+	
+	@Column(name="")
+	private String What_make_him_Special;
+	
+	
+	
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=springboot-Angular-2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;net.javaguides.springboot.Service{UserService.java[UserService" modifiers="513" timestamp="1691933034258"/>
+    <typeInfo handle="=springboot-Angular-3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;net.javaguides.springboot.service{UserService.java[UserService" modifiers="513" timestamp="1692721158514"/>
+    <typeInfo handle="=springboot-Angular-2/C:\/Users\/surya\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.1.2\/spring-data-jpa-3.1.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.1.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1689930399577"/>
+</typeInfoHistroy>
